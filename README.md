@@ -16,3 +16,7 @@ https://stackoverflow.com/questions/12481439/jquery-this-keyword
 https://stackoverflow.com/questions/867916/creating-a-div-element-in-jquery
 
 https://www.w3schools.com/howto/howto_google_fonts.asp
+
+https://dzone.com/articles/getting-started-with-momentjs-intro-with-examples
+
+https://momentjs.com/

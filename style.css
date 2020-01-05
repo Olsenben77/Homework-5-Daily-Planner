@@ -29,6 +29,7 @@ p {
 #Date {
   display: flex;
   justify-content: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
 
   font-family: "Kadwa";
   font-size: 25px;
