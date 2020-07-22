@@ -26,7 +26,7 @@ function LogIt(msg) {
 }
 
 $(document).ready(function() {
-  LogIt("It's&nbsp;" + moment().format("dddd, MMMM Do, h:mm:a") + " my dudes");
+  LogIt("It's&nbsp;" + moment().format("dddd, MMMM Do, h:mm:a"));
 
   //Input sections color change by hour
   function getExpireDate() {
